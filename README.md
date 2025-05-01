@@ -1,0 +1,1 @@
+# Semantic Search Engine using qdrant as a vector database
